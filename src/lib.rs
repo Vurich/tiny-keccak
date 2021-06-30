@@ -36,7 +36,7 @@
 //! but not liability.
 
 #![no_std]
-#![feature(const_fn, const_let)]
+#![feature(const_fn_trait_bound)]
 
 #[macro_use]
 extern crate crunchy;
